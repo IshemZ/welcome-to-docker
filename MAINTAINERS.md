@@ -2,7 +2,7 @@
 
 This document is for maintainers of this repository.
 
-## Docker Hub Image
+## Docker Hub Image 
 
 The image is stored on Docker Hub in the [`docker/welcome-to-docker`](https://hub.docker.com/r/docker/welcome-to-docker) repository.
 
